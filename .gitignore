@@ -1,0 +1,47 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+*.cache
+*.cacheitems
+*.csproj.user
+*.dbmdl
+*.jfm
+*.vspscc
+*.vssscc
+_Debug/
+_Release/
+Debug/
+Release/
+**/[Dd]ebug/
+**/[Rr]elease/
+
+## NuGet
+packages/
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+*.nuget.props
+*.nuget.targets
+
+## Visual Studio
+.vs/
+*.sln.ide/
+
+## Installer
+Install_BlzSoftTerminal/Debug/
+Install_BlzSoftTerminal/Release/
+*.msi
+*.cab
+
+## Upgrade Logs
+UpgradeLog*.htm
+
+## Configuration (contains credentials)
+config.json
+
+## Project-specific
+[Bb]in/
+[Oo]bj/
